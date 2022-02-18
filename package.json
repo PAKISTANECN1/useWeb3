@@ -16,7 +16,7 @@
     "gray-matter": "^4.0.3",
     "he": "^1.2.0",
     "marked": "^4.0.1",
-    "next": "^12.0.3",
+    "next": "^12.1.0",
     "next-pagination": "^3.1.0",
     "next-plausible": "^2.1.1",
     "react": "17.0.2",
